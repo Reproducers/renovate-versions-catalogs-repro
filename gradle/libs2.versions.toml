@@ -1,0 +1,8 @@
+[versions]
+firebase = "28.1.0"
+
+[libraries]
+google-firebase-analytics = { module = "com.google.firebase:firebase-analytics" }
+google-firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebase" }
+google-firebase-crashlytics = { module = "com.google.firebase:firebase-crashlytics" }
+google-firebase-messaging = { module = "com.google.firebase:firebase-messaging" }
