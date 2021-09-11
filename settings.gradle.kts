@@ -7,6 +7,7 @@ include(":library")
 dependencyResolutionManagement {
     repositories {
         mavenCentral()
+        google()
     }
 
     versionCatalogs {
