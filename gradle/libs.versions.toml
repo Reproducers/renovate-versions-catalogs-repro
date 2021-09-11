@@ -10,5 +10,5 @@ picasso = { group = "com.squareup.picasso", name = "picasso", version = "2.5.1" 
 retrofit2-retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
 
 [plugins]
-kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version = "1.5.21" }
+kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version = "1.5.30" }
 kotlinSerialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
