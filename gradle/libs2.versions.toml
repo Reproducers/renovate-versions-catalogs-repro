@@ -1,5 +1,5 @@
 [versions]
-firebase = "28.1.0"
+firebase = "28.4.0"
 
 [libraries]
 google-firebase-analytics = { module = "com.google.firebase:firebase-analytics" }
